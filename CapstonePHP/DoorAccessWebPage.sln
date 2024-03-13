@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorAccessWebPage", "KegleyWebPage\DoorAccessWebPage.csproj", "{359357D9-4F21-4A73-A4E6-9707D51C874E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B70521C-CC9B-4230-8D5E-13BD8889BD8B}"
+	ProjectSection(SolutionItems) = preProject
+		CreatePerson.html = CreatePerson.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359357D9-4F21-4A73-A4E6-9707D51C874E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359357D9-4F21-4A73-A4E6-9707D51C874E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359357D9-4F21-4A73-A4E6-9707D51C874E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359357D9-4F21-4A73-A4E6-9707D51C874E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F739F944-76EF-46E0-ADAF-395F6A88E6DC}
+	EndGlobalSection
+EndGlobal
